@@ -1,0 +1,36 @@
+{
+  "name": "regexpbuilderjs",
+  "version": "0.0.1",
+  "description": "A simple, chainable regular expression builder.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "regular expressions",
+    "regex",
+    "regexp",
+    "builder",
+    "pattern",
+    "regexpbuilder"
+  ],
+  "author": {
+    "name": "Scott Robinson",
+    "email": "scott@pingbot.dev",
+    "url": "https://pingbot.dev"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/scottwrobinson/regexpbuilderjs",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "chai": "^4.4.1",
+    "eslint": "^9.4.0",
+    "eslint-plugin-mocha": "^10.4.3",
+    "globals": "^15.3.0",
+    "mocha": "^10.4.0"
+  }
+}
