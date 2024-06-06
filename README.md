@@ -21,7 +21,7 @@ JavaScript port of `regexpbuilderphp` (which was a port of `regexpbuilder`, whic
 
 Development of RegExpBuilderJS is supported by:
 
-- [Ping Bot](https://pingbot.dev) - A free uptime and vendor monitoring service for everyone.
+- [Ping Bot](https://pingbot.dev?ref=regexpbuilderjs) - A free uptime and vendor monitoring service for everyone.
 
 ## Installation
 
